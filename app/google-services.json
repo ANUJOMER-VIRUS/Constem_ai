@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682518859356",
+    "project_id": "cosmetai",
+    "storage_bucket": "cosmetai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682518859356:android:28e8d27fcfb10a59c2a099",
+        "android_client_info": {
+          "package_name": "com.omer.constems_ai_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682518859356-ufsedcgm2q31s2g1427nb63ni9n6hqoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omer.constems_ai_assignment",
+            "certificate_hash": "14596a9c062aac529f9ad9d17a7a6fca8864c2ff"
+          }
+        },
+        {
+          "client_id": "682518859356-b6dnattms064u3ajr77rqqtsjicbqpbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyh0ueJDI4WZxY5vQz5_K3Zg8eAxIeKek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682518859356-b6dnattms064u3ajr77rqqtsjicbqpbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
